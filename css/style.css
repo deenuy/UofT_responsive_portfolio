@@ -1,0 +1,24 @@
+.container-fluid {
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+
+#footer{
+    background-color: #2d2926;
+    color: lightgray;
+}
+
+.bottom-margin {
+    margin-bottom: 2rem;
+    background-color: aquamarine;
+}
+#main {
+    background-color: #ccc8bf;
+    height: 100%;
+    width: 100%;
+}
+
+#nameholder{
+    background-color: #009473;
+}
+
